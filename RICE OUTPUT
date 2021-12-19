@@ -1,3 +1,53 @@
+OUTPUT
+
+*    *    *   * * *  *        * *       *       * * * * *   * * *   
+*    *    *   *      *      *        *     *    *   *   *   *       
+*   * *   *   * *    *     *       *         *  *   *   *   * *     
+ * *   * *    *      *      *        *     *    *   *   *   *       
+  *     *     * * *  * * *    * *       *       *   *   *   * * *   
+
+                        *         *        *                        
+                      *   *     *   *    *   *                      
+                 *********************************                  
+                 *                               *                  
+                 *     *   *   *   *   *   *     *                  
+                 * * *   *   *   *   *   *   * * *                  
+                 *                               *                  
+                 *********************************                  
+                 * * * * * * * * * * * * * * * * *                  
+                 *********************************                  
+
+This Programme Will Calculate The Mass or Number of Ingridients for 1 Month
+
+Please enter your target of making cake in one day : 10
+
+Please enter the number or mass of ingredient for making 1 cake : 
+Flour in kg         : 0.35
+Eggs                : 2
+Sugar in kg         : 0.1
+Baking powder in kg : 0.01
+Ovallete in kg      : 0.01
+Chocolate in kg     : 0.1
+
+Please enter the number or mass of stock remaining in your store :
+Flour in kg         : 3
+Eggs                : 4
+Sugar in kg         : 2
+Baking powder in kg : 1
+Ovallete in kg      : 1
+Chocolate in kg     : 5
+
+The results    
+Flour         : 102.0 kg
+Eggs          : 596
+Sugar         : 28.0 kg
+Baking powder : 2.0 kg
+Ovalette      : 2.0 kg
+Chocolate     : 25.0 kg
+
+
+
+
 Please enter the weight in sample unit(kg/10m2)
 Enter the weight of Black rice:
 1.1
@@ -44,3 +94,112 @@ Brown rice :8580.00lbs
 Red Cargo rice :12320.00lbs
 Sticky rice :17490.00lbs
 Long grain white rice :21824.00lbs
+
+
+
+
+Enter the type of the first dessert : CHOCOLATE CAKE
+Enter the type of the second dessert : LEMON MERINGUE PIE
+Enter the type of the third dessert : RAINBOW MACARON SET
+Enter the type of the fourth dessert : STRAWBERRY PUDDING
+Enter the type of the fifth dessert : RASPBERRY PUFF
+Enter the price of the CHOCOLATE CAKE : RM299
+Enter the cost of ingredients of the CHOCOLATE CAKE : RM230
+Enter the price of the LEMON MERINGUE PIE : RM56
+Enter the cost of ingredients of the LEMON MERINGUE PIE : RM34
+Enter the price of the RAINBOW MACARON SET : RM45.5
+Enter the cost of ingredients of the RAINBOW MACARON SET : RM36
+Enter the price of the STRAWBERRY PUDDING : RM7
+Enter the cost of ingredients of the STRAWBERRY PUDDING : RM4
+Enter the price of the RASPBERRY PUFF : RM9
+Enter the cost of ingredients of the RASPBERRY PUFF : RM6.5
+Enter the quantity of the CHOCOLATE CAKE sold : 98
+Enter the quantity of the LEMON MERINGUE PIE sold : 75
+Enter the quantity of the RAINBOW MACARON SET sold : 130
+Enter the quantity of the STRAWBERRY PUDDING sold : 165
+Enter the quantity of the RASPBERRY PUFF sold : 134
+Enter the number of employees : 2
+Enter the employee salary : RM1500
+Enter the rent payment per month : RM850
+Enter the utilities fee for this month : RM650.5
+Enter the transport fee for this month : RM400
+
+	***************************************************************************************************
+	* TYPE OF DESSERTS SELL *  PRICE         *  QUANTITY SOLD *  COST OF INGREDIENT   *  GROSS PROFIT *
+	***************************************************************************************************
+	* CHOCOLATE CAKE 	*  RM299.0	 *  98		  *  RM230.0		  *  RM69.0	  *
+	* LEMON MERINGUE PIE 	*  RM56.0	 *  75		  *  RM34.0		  *  RM22.0	  *
+	* RAINBOW MACARON SET 	*  RM45.5	 *  130		  *  RM36.0		  *  RM9.5	  *
+	* STRAWBERRY PUDDING 	*  RM7.0	 *  165		  *  RM4.0		  *  RM3.0	  *
+	* RASPBERRY PUFF 	*  RM9.0	 *  134		  *  RM6.5		  *  RM2.5	  *
+	***************************************************************************************************
+	 TOTAL SALES    	   = RM41778.0
+	 TOTAL COST OF INGREDIENTS = RM31301.0
+	______________________________________________
+	 TOTAL GROSS PROFIT 	   = RM10477.0
+	----------------------------------------------
+	 EMPLOYEE SALARY= RM3000.0
+	 RENT PAYMENT 	= RM850.0
+	 UTILITIES FEE 	= RM650.5
+	 TRANSPORT FEE 	= RM400.0
+	______________________________________________
+	 TOTAL COST 	= RM4900.5
+	______________________________________________
+	 NET INCOME 	= RM5576.5
+	***************************************************************************************************
+  
+  
+  
+  
+Please enter your name : Laila
+Please enter your state : Selangor
+Please enter your gender : Female
+Please enter your age : 20
+
+Welcome to the Green Eagle Seed Application,Laila
+
+* * * * * * * * * * * *
+The price for Apple seed is RM60 for 200g and RM110 for 500g.
+The price for Premium Apple Seed is RM70 for 200g and RM120 for 500g. 
+
+The price for Strawberry seed is RM80 for 200g and RM150 for 500g.
+The price for Premium Strawberry Seed is RM90 for 200g and RM160 for 500g. 
+
+The price for Grape seed is RM50 for 200g and RM100 for 500g.
+The price for Premium Grape Seed is RM60 for 200g and RM110 for 500g. 
+
+The price for Orange seed is RM45 for 200g and RM90 for 500g.
+The price for Premium Orange Seed is RM55 for 200g and RM100 for 500g. 
+* * * * * * * * * * * *
+
+Please enter the type of seed you want to buy : Apple
+Choose either 200g or 500g : 200
+Enter the price of seed you want to buy : RM60
+How many bag of seed you want to buy ? : 3
+* * * * * * * * 
+Please enter the second type of seed you want to buy : Orange
+Choose either 200g or 500g : 500
+Enter the price of seed you want to buy : RM90
+How many bag of seed you want to buy ? : 3
+The total price of your products : RM450
+
+Are you are member ? : No
+Do you want to be a member ? : Yes
+Enter your name : Laila
+You have to pay RM50 per year to continue being a member
+
+You will get a RM5 off voucher for next purchase for minimum spending RM100. 
+If you are spending RM300 and above, you will get a RM10 off for next purchase , a free tool and free delivery.
+
+You can pay using online banking and cash on delivery.
+Please type 'A' for online banking and 'B' for cash on delivery.
+Please choose your paying method : A
+
+You get RM112 off.You have to pay RM5 for delivery cost.
+
+The final amount of your products' price : RM 393
+You get a RM10 off voucher ! A free tool and free delivery !
+
+
+
+
