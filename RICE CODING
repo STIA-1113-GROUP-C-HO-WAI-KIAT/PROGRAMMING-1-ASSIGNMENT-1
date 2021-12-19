@@ -1,0 +1,117 @@
+package coding;
+
+import java.util.Scanner;
+
+public class Rice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double a;
+		double b;
+		double c;
+		double d;
+		double e;
+		double f;
+		double a1;
+		double b1;
+		double c1;
+		double d1;
+		double e1;
+		double f1;
+		double sum1;
+		double sum2;
+		double sum3;
+		double sum4;
+		double sum5;
+		double sum6;
+		double sum7;
+		double sum8;
+		double sum9;
+		double sum10;
+		double sum11;
+		double sum12;
+		
+		
+		Scanner scanMe = new Scanner (System.in);
+		
+		System.out.println("Please enter the weight in sample unit(kg/10m2)");
+		System.out.println("Enter the weight of Black rice:");
+	    a = scanMe.nextDouble(); 
+		
+		System.out.println("Enter the weight of Jasmine rice:");
+		b = scanMe.nextDouble();
+		
+		System.out.println("Enter the weight of Brown rice:");
+		c = scanMe.nextDouble();
+		
+		System.out.println("Enter the weight of Red Cargo rice:");
+		d = scanMe.nextDouble();
+		
+		System.out.println("Enter the weight of Sticky rice:");
+		e = scanMe.nextDouble();
+		
+		System.out.println("Enter the weight of Long grain white rice:");
+		f = scanMe.nextDouble();
+		
+		
+		System.out.println("Please enter the area of the farm of each type of rice (hectare)");
+		System.out.println("Enter the area of Black rice farm:");
+	    a1 = scanMe.nextDouble(); 
+		
+		System.out.println("Enter the area of Jasmine rice farm:");
+		b1 = scanMe.nextDouble();
+		
+		System.out.println("Enter the area of Brown rice farm:");
+		c1 = scanMe.nextDouble();
+		
+		System.out.println("Enter the area of Red Cargo rice farm:");
+		d1 = scanMe.nextDouble();
+		
+		System.out.println("Enter the area of Sticky rice farm:");
+		e1 = scanMe.nextDouble();
+		
+		System.out.println("Enter the area of Long grain white rice farm:");
+		f1 = scanMe.nextDouble();
+		
+		
+		System.out.println();
+		
+		
+		
+		sum1 = (a*1000) * a1;
+		sum2 = (b*1000) * b1;
+		sum3 = (c*1000) * c1;
+		sum4 = (d*1000) * d1;
+		sum5 = (e*1000) * e1;
+		sum6 = (f*1000) * f1;
+		
+		System.out.println("The formula of kg/ha is kg/10m2 x 1000 = kg/ha");
+		System.out.println("The formula of kg is kg/ha x hectare = kg");
+		System.out.println("The yield of each type of rice in kg");
+		System.out.printf("%-7s%3.2f%2s%n","Black rice :" , sum1 , "kg");
+		System.out.printf("%-7s%3.2f%2s%n","Jasmine rice :" , sum2 , "kg");
+		System.out.printf("%-7s%3.2f%2s%n","Brown rice :" , sum3 , "kg");
+		System.out.printf("%-7s%3.2f%2s%n","Red Cargo rice :" , sum4 , "kg");
+		System.out.printf("%-7s%3.2f%2s%n","Sticky rice :" , sum5 , "kg");
+		System.out.printf("%-7s%3.2f%2s%n","Long grain white rice :" , sum6 , "kg");
+		
+		System.out.println();
+		
+		sum7 = sum1 * 2.2;
+		sum8 = sum2 * 2.2;
+		sum9 = sum3 * 2.2;
+		sum10 = sum4 * 2.2;
+		sum11 = sum5 * 2.2;
+		sum12 = sum6 * 2.2;
+		System.out.println("The formula of 1 kg/ha is 2.2lbs/ha");
+		System.out.println("The formula of lbs is lbs/ha x hectare = lbs");
+		System.out.println("The yield of each type of rice in lbs");
+		System.out.printf("%-7s%3.2f%2s%n","Black rice :" , sum7 , "lbs");
+		System.out.printf("%-7s%3.2f%2s%n","Jasmine rice :" , sum8 , "lbs");
+		System.out.printf("%-7s%3.2f%2s%n","Brown rice :" , sum9 , "lbs");
+		System.out.printf("%-7s%3.2f%2s%n","Red Cargo rice :" , sum10 , "lbs");
+		System.out.printf("%-7s%3.2f%2s%n","Sticky rice :" , sum11 , "lbs");
+		System.out.printf("%-7s%3.2f%2s%n","Long grain white rice :" , sum12 , "lbs");
+	}
+
+}
