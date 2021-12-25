@@ -54,46 +54,52 @@ Enter the weight of Black rice:
 Enter the weight of Jasmine rice:
 1.2
 Enter the weight of Brown rice:
-1.3
+3.2
 Enter the weight of Red Cargo rice:
-1.4
+4.1
 Enter the weight of Sticky rice:
 1.5
 Enter the weight of Long grain white rice:
-1.6
+2.3
 Please enter the area of the farm of each type of rice (hectare)
 Enter the area of Black rice farm:
 1
 Enter the area of Jasmine rice farm:
 2
 Enter the area of Brown rice farm:
-3
+3.2
 Enter the area of Red Cargo rice farm:
-4
+4.5
 Enter the area of Sticky rice farm:
-5.3
+3.1
 Enter the area of Long grain white rice farm:
-6.2
+2.1
 
-The formula of kg/ha is kg/10m2 x 1000 = kg/ha
-The formula of kg is kg/ha x hectare = kg
-The yield of each type of rice in kg
+************************************************
+*The formula of kg/ha is kg/10m2 x 1000 = kg/ha*
+*The formula of kg is kg/ha x hectare = kg     *
+*The yield of each type of rice in kg          *
+************************************************
+
 Black rice :1100.00kg
 Jasmine rice :2400.00kg
-Brown rice :3900.00kg
-Red Cargo rice :5600.00kg
-Sticky rice :7950.00kg
-Long grain white rice :9920.00kg
+Brown rice :10240.00kg
+Red Cargo rice :18450.00kg
+Sticky rice :4650.00kg
+Long grain white rice :4830.00kg
 
-The formula of 1 kg/ha is 2.2lbs/ha
-The formula of lbs is lbs/ha x hectare = lbs
-The yield of each type of rice in lbs
+**********************************************
+*The formula of 1 kg/ha is 2.2lbs/ha         *
+*The formula of lbs is lbs/ha x hectare = lbs*
+*The yield of each type of rice in lbs       *
+**********************************************
+
 Black rice :2420.00lbs
 Jasmine rice :5280.00lbs
-Brown rice :8580.00lbs
-Red Cargo rice :12320.00lbs
-Sticky rice :17490.00lbs
-Long grain white rice :21824.00lbs
+Brown rice :22528.00lbs
+Red Cargo rice :40590.00lbs
+Sticky rice :10230.00lbs
+Long grain white rice :10626.00lbs
 
 
 
