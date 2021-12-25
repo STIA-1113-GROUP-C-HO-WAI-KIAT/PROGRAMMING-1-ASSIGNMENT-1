@@ -194,9 +194,14 @@ public class Rice {
 		sum5 = (e*1000) * e1;
 		sum6 = (f*1000) * f1;
 		
-		System.out.println("The formula of kg/ha is kg/10m2 x 1000 = kg/ha");
-		System.out.println("The formula of kg is kg/ha x hectare = kg");
-		System.out.println("The yield of each type of rice in kg");
+		System.out.println("************************************************");
+		System.out.println("*The formula of kg/ha is kg/10m2 x 1000 = kg/ha*");
+		System.out.println("*The formula of kg is kg/ha x hectare = kg     *");
+		System.out.println("*The yield of each type of rice in kg          *");
+		System.out.println("************************************************"); 
+		
+		System.out.println();
+		
 		System.out.printf("%-7s%3.2f%2s%n","Black rice :" , sum1 , "kg");
 		System.out.printf("%-7s%3.2f%2s%n","Jasmine rice :" , sum2 , "kg");
 		System.out.printf("%-7s%3.2f%2s%n","Brown rice :" , sum3 , "kg");
@@ -212,9 +217,14 @@ public class Rice {
 		sum10 = sum4 * 2.2;
 		sum11 = sum5 * 2.2;
 		sum12 = sum6 * 2.2;
-		System.out.println("The formula of 1 kg/ha is 2.2lbs/ha");
-		System.out.println("The formula of lbs is lbs/ha x hectare = lbs");
-		System.out.println("The yield of each type of rice in lbs");
+		System.out.println("**********************************************");
+		System.out.println("*The formula of 1 kg/ha is 2.2lbs/ha         *");
+		System.out.println("*The formula of lbs is lbs/ha x hectare = lbs*");
+		System.out.println("*The yield of each type of rice in lbs       *");
+		System.out.println("**********************************************");
+		
+		System.out.println();
+		
 		System.out.printf("%-7s%3.2f%2s%n","Black rice :" , sum7 , "lbs");
 		System.out.printf("%-7s%3.2f%2s%n","Jasmine rice :" , sum8 , "lbs");
 		System.out.printf("%-7s%3.2f%2s%n","Brown rice :" , sum9 , "lbs");
