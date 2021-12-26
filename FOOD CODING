@@ -1,3 +1,4 @@
+(Bread)
 package assignment;
 import java.util.Scanner;
 public class Bread {
@@ -61,7 +62,8 @@ public class Bread {
 	    }
 
 	}
-	
+
+(Cake)
 package Assignment_1;
 import java.util.Scanner;
 public class cake {
@@ -171,6 +173,8 @@ public class cake {
 
 }
 
+
+(Rice)
 package coding;
 
 import java.util.Scanner;
@@ -299,6 +303,7 @@ public class Rice {
 
 }
 
+(Dessert)
 package Dessert;
 
 import java.util.Scanner;
@@ -401,6 +406,7 @@ public class dessert {
 
 }
 
+(Fruit)
 package taskOne;
 import java.util.Scanner;
 
